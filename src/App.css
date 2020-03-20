@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.App * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.App Form {
+  margin: 16px;
+  padding: 16px;
+  background-color: rgb(250, 250, 250);
+}
+
+.App ul {
+  list-style-type: none;
+  margin: 16px;
+  padding: 16px;
+  background-color: rgb(250, 250, 250);
+}
